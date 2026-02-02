@@ -1,0 +1,7 @@
+services:
+  app:
+    image: almuko/probn1:latest
+    container_name: probn1_app
+    restart: always
+    ports:
+      - "8989:8080"

@@ -19,7 +19,7 @@ func main() {
 			<title>Привет</title>
 			</head>
 			<body style="font-family: system-ui; padding: 40px;">
-			<h1>Hello GO</h1>
+			<h1>Hello GO + POSTGRES</h1>
 			
 			</body>
 			</html>
